@@ -8,12 +8,12 @@
 - add sections
 - nice theme
 
-#Requirements :hamster:
+# Requirements :hamster:
 
-#Architecture
+# Architecture
 
-#Method Selection and Planning
+# Method Selection and Planning
 
-#Risk Assessment and Mitigation
+# Risk Assessment and Mitigation
 
-#Implementation
+# Implementation
