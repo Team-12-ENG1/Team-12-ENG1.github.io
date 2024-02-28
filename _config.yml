@@ -1,3 +1,4 @@
 name: Test
 #theme: jekyll-theme-minimal
+#List of themes: https://pages.github.com/themes/
 remote_theme: pages-themes/architect@v0.2.0
