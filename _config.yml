@@ -1,8 +1,8 @@
 #List of themes: https://pages.github.com/themes/
 #theme: jekyll-theme-minimal
 #remote_theme: pages-themes/architect@v0.2.0
-#remote_theme: pages-themes/midnight@v0.2.0
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
+#remote_theme: pages-themes/slate@v0.2.0
 
 title: ENG1 Group 15
-description: Heslington Hustle for ENG1 G15
+description: Heslington Hustle
