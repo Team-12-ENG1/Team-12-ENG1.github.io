@@ -1,5 +1,6 @@
-name: Test title
-theme: jekyll-theme-minimal
+title: ENG1 Group 15
+#theme: jekyll-theme-minimal
 #List of themes: https://pages.github.com/themes/
 #remote_theme: pages-themes/architect@v0.2.0
-description: Test test test
+remote_theme: pages-themes/midnight@v0.2.0
+description: Heslington Hustle for ENG1 G15
