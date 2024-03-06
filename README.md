@@ -10,6 +10,7 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/addi
 - collaborative repo
 - decide on markdown and inbuilt themes vs html/css
  - (big factor: markdown with a theme does not support emoji?)
+ - change colour of links by editing CSS
 
 - add temp links
 - add sections
