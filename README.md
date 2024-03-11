@@ -18,7 +18,8 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/addi
 
 [Requirements](https://lukehcjackson.github.io/HeslingtonHustleG15/docs/requirements.pdf)
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/requirements.pdf" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif;">Requirements</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/requirements.pdf" style="background-color: black; color: white; padding: 30px 60px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-size: 150%;">Requirements</a>
+
 
 
 
