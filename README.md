@@ -16,7 +16,7 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/addi
 - add sections
 - nice theme
 
-[Requirements](https://lukehcjackson.github.io/HeslingtonHustleG15/implem.pdf)
+[Requirements](https://lukehcjackson.github.io/HeslingtonHustleG15/docs/requirements.pdf)
 
 
 # Architecture
