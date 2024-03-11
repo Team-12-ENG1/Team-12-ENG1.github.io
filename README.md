@@ -16,7 +16,7 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/addi
 - add sections
 - nice theme
 
-[Requirements](https://lukehcjackson.github.io/HeslingtonHustleG15/docs/requirements.pdf)
+[Requirements](https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf)
 
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold;">Requirements</a>
 
