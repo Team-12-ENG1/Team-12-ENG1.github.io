@@ -28,3 +28,4 @@
     <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/tsveta.jpg" alt="Team Member 7" style="margin: 10px; border: 5px solid black; width: 100px;">
 </div>
 
+<img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/heshus-background.png" style="width = 100vw height = 100vh z-index=-1">
