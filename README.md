@@ -1,6 +1,6 @@
 # HeslingtonHustleG15
 
-<img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/heshus-background.png" style="width = 100vw height = 100vh z-index=-1">
+<img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/hh-bg2.png" style="width = 100vw height = 100vh z-index=-1">
 
 
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements</a>
