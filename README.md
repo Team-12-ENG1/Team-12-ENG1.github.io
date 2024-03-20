@@ -27,7 +27,7 @@
 
 <div style="text-align: center;">
     <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/tsveta.jpg" alt="Team Member 1" style="margin: 10px; border: 5px solid black; width: 100px;">
-    <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/tsveta.jpg" alt="Team Member 2" style="margin: 10px; border: 5px solid black; width: 100px;">
+    <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/adamjpg.jpg" alt="Team Member 2" style="margin: 10px; border: 5px solid black; width: 100px;">
     <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/luke.jpg" alt="Team Member 3" style="margin: 10px; border: 5px solid black; width: 100px;">
     <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/luca.jpg" alt="Team Member 4" style="margin: 10px; border: 5px solid black; width: 100px;">
     <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/april.jpg" alt="Team Member 5" style="margin: 10px; border: 5px solid black; width: 100px;">
