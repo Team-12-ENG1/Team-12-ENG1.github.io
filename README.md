@@ -3,6 +3,10 @@
 
 <a href="https://github.com/TsvetaIvanova/HesHus" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">View our project's GitHub here</a>
 
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download JAR</a>
+
+<a href="https://github.com/TsvetaIvanova/HesHus" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download our code as a .zip</a>
+
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements</a>
 
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Architecture</a>
@@ -16,8 +20,6 @@
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: darkgrey; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Reassessment Table</a>
 
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Implementation</a>
-
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download JAR</a>
 
 
 <div style="text-align: center;">
