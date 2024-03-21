@@ -1,4 +1,4 @@
-# HeslingtonHustleG15
+# Heslington Hustle
 
 <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/hh-bg2.png" style="width = 100vw height = 100vh z-index=-1">
 
