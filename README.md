@@ -5,8 +5,6 @@
 
 <a href="https://drive.google.com/file/d/1uWFpuNFwbp2wkDN4zGPN6JxYuojb1q_F/view" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download JAR (Google Drive)</a>
 
-<a href="https://drive.google.com/file/d/1uWFpuNFwbp2wkDN4zGPN6JxYuojb1q_F/view" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download JAR (Git)</a>
-
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/HesHus-new-main-5.zip" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download our code as a .zip</a>
 
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Req1.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements</a>
