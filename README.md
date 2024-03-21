@@ -5,21 +5,21 @@
 
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download JAR</a>
 
-<a href="https://github.com/TsvetaIvanova/HesHus" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download our code as a .zip</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/HesHus-new-main-5.zip" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download our code as a .zip</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Req1.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Architecture</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Arch1.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Architecture</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: darkblue; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Interim Architecture Versions</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Architecture Previous Versions.pdf" style="background-color: darkblue; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Interim Architecture Versions</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;;">Method Selection and Planning</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Plan1.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;;">Method Selection and Planning</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Assessment and Mitigation</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Risk1.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Assessment and Mitigation</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: darkblue; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Reassessment Table</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Reassessment Risk.png" style="background-color: darkblue; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Reassessment Table</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Requirements.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Implementation</a>
+<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Impl1.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Implementation</a>
 
 
 <div style="text-align: center;">
