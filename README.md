@@ -21,7 +21,7 @@
 
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/Impl1.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Implementation</a>
 
-<a href="https://github.com/Team-12-ENG1/HeslingtonHustle2/blob/28760e0078d98b9e4d2075c74c7cfb90f6a126fb/tests/build/reports/tests/test/index.html" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Test Results</a>
+<a href="http://htmlpreview.github.io/?https://Team-12-ENG1.github.io/docs/test/index.html" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Test Results</a>
 
 
 <div style="text-align: center;">
