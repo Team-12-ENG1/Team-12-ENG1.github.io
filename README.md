@@ -23,5 +23,7 @@
 
 <a href="http://htmlpreview.github.io/?https://Team-12-ENG1.github.io/docs/test/index.html" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Test Results</a>
 
+<a href="http://htmlpreview.github.io/?https://Team-12-ENG1.github.io/docs/coverage-report/index.html" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Test Coverage Report</a>
+
 
 <img src="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/heshus-background.png" style="width = 100vw height = 100vh z-index=-1">
