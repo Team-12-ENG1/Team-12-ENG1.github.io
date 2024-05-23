@@ -16,6 +16,10 @@
 
 <a href="docs/New files/ArchitecturePreviousVersions.pdf" style="background-color: darkblue; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Interim Architecture Versions</a>
 
+<a href="docs/New files/Plan2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Method Selection and Planning 2</a>
+
+<a href="docs/New files/Gantt Charts.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Gantt Charts</a>
+
 <a href="docs/New files/Risk2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Assessment and Mitigation 2</a>
 
 <a href="docs/New files/Imp2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Implementation 2</a>
@@ -32,9 +36,6 @@
 <a href="http://htmlpreview.github.io/?https://Team-12-ENG1.github.io/docs/test/index.html" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Test Results</a>
 
 <a href="docs/New files/test-cases.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Manual Test Cases</a>
-
-<a href="docs/New files/Gantt Charts.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Gantt Charts</a>
-
 
 <img src="docs/heshus-background.png" style="width = 100vw height = 100vh z-index=-1">
 
