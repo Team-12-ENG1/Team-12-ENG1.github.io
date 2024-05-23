@@ -45,10 +45,10 @@
 
 <a href="docs/Previous Files/Arch1.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Architecture</a>
 
-<a href="docs/Previous files/Plan1.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Method Selection and Planning</a>
+<a href="docs/Previous Files/Plan1.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Method Selection and Planning</a>
 
-<a href="docs/Previous files/Risk1.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Assessment and Mitigation</a>
+<a href="docs/Previous Files/Risk1.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Assessment and Mitigation</a>
 
-<a href="docs/Previous files/RiskReassessment.jpg" style="background-color: darkblue; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Reassessment Table</a>
+<a href="docs/Previous Files/RiskReassessment.jpg" style="background-color: darkblue; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Reassessment Table</a>
 
-<a href="docs/Previous files/Impl1.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Implementation</a>
+<a href="docs/Previous Files/Impl1.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Implementation</a>
