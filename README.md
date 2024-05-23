@@ -4,7 +4,7 @@
 
 <a href="docs/New files/desktop-1.0.jar" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download JAR</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/HesHus-new-main-5.zip" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download our code as a .zip</a>
+<a href="docs/New files/HeslingtonHustle2.zip" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download our code as a .zip</a>
 
 # Updated Deliverables
 
