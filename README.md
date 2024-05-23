@@ -25,7 +25,7 @@
 
 <a href="https://drive.google.com/file/d/1uWFpuNFwbp2wkDN4zGPN6JxYuojb1q_F/view" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download JAR (Google Drive)</a>
 
-<a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/New Files/Req2.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements 2</a>
+<a href="docs/New files/Req2.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements 2</a>
 
 <a href="https://lukehcjackson.github.io/HeslingtonHustleG15/docs/New Files/Risk2.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk 2</a>
 
