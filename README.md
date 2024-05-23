@@ -8,7 +8,9 @@
 
 # Updated Deliverables
 
-<a href="docs/New files/CI2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Change Report</a>
+<a href="docs/New files/Change2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Change Report</a>
+
+<a href="docs/New files/CI2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Continuous Integration</a>
 
 <a href="docs/New files/Req2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements 2</a>
 
@@ -23,8 +25,6 @@
 <a href="docs/New files/Risk2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Risk Assessment and Mitigation 2</a>
 
 <a href="docs/New files/Imp2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Implementation 2</a>
-
-<a href="docs/New files/CI2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Contigious Integration</a>
 
 <a href="docs/New files/Eval2.pdf" style="background-color: black; color: white; padding: 10px 10px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">User Evalutation</a>
 
