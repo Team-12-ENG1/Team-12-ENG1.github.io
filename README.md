@@ -25,6 +25,8 @@
 
 <a href="http://htmlpreview.github.io/?https://Team-12-ENG1.github.io/docs/coverage-report/index.html" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Test Coverage Report</a>
 
+<a href="docs/test-cases.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Manual Test Cases</a>
+
 <a href="https://drive.google.com/file/d/1uWFpuNFwbp2wkDN4zGPN6JxYuojb1q_F/view" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Download JAR (Google Drive)</a>
 
 <a href="docs/New files/Req2.pdf" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: sans-serif; font-weight: bold; display: inline-block; margin-bottom: 1cm;">Requirements 2</a>
